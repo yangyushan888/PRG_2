@@ -1,0 +1,17 @@
+C:\Users\georg\Downloads\prg1>git add .
+
+C:\Users\georg\Downloads\prg1>git commit -m "2nd commit"
+[main b776c32] 2nd commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 New Text Document.txt
+
+C:\Users\georg\Downloads\prg1>git push -u origin main
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 290 bytes | 290.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/yangyushan888/prg1.git
+   5fe1927..b776c32  main -> main
+branch 'main' set up to track 'origin/main'.
